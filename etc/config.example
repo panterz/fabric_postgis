@@ -1,0 +1,3 @@
+[localhost]
+server = {"user": "<user>", "host": "<host>", "dest": "local", "home": "<home path>"}
+dbserver = {"user": "<username>", "pass": "<password>", "port": <port>, "db": "<database>"}
